@@ -28,5 +28,5 @@ Para poner en marcha nuestra API, basta con ejecutar ejecutar nuestra app, para 
 
  ## ⚙️ Pruebas Unitarias ⚙️
 
-Para ejecutar nuentras pruebas unitarias basta ejecutar en consola el comnado ** pytest -v **
+Para ejecutar nuentras pruebas unitarias basta ejecutar en consola el comando **pytest -v** 
 
