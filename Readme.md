@@ -9,13 +9,13 @@ El siguiente proyecto basado en Python es par la creación de una api, que retor
 
 1) Instalar python https://www.python.org/downloads/
 
-2) crear un ambiente en python ejecutando en consola: 
+2) Crear un ambiente en python ejecutando en consola: 
     python -m venv venv
 
-3) habilitar el ambiente virtual ejecutando en consola:
+3) Habilitar el ambiente virtual ejecutando en consola:
     .\venv\Scripts\activate
 
-4) instalar las dependencias ejecutando en consola:
+4) Instalar las dependencias ejecutando en consola:
     python -m pip install -r .\requirements.txt
     
 
