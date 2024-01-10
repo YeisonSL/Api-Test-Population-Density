@@ -19,3 +19,12 @@ def test_get_population_density_check_elements_length():
     countries = read_root()
     for countrie in countries:
         assert len(countrie) > 0 
+
+
+def test_get_population_density_length():
+    countries = read_root()
+    assert not len(countries) == 6
+
+def test_get_population_density_length():
+    countries = read_root()
+    assert not len(countries) == 0
