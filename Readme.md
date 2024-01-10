@@ -10,19 +10,19 @@ El siguiente proyecto basado en Python es par la creación de una api, que retor
 1) Instalar python https://www.python.org/downloads/
 
 2) Crear un ambiente en python ejecutando en consola: 
-    python -m venv venv
+    **python -m venv venv**
 
 3) Habilitar el ambiente virtual ejecutando en consola:
-    .\venv\Scripts\activate
+   **.\venv\Scripts\activate**
 
 4) Instalar las dependencias ejecutando en consola:
-    python -m pip install -r .\requirements.txt
+    **python -m pip install -r .\requirements.txt**
     
 
 ## 🛠️ Levantar API 🛠️
 
-Para poner en marcha nuestra API, basta con ejecutar ejecutar nuestra app, para ello ejecutamos en consola el siguiente comando:
-    uvicorn api.operation.get_API:app --reload
+Para poner en marcha nuestra API, basta con ejecutar ejecutar nuestra app, para ello ejecutamos en consola el siguiente comando: 
+   **uvicorn api.operation.get_API:app --reload**
 
  Por ultimo ingresamos a la url: http://localhost:8000/densidad-demografica para la validación que nuestra API responde
 
